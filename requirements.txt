@@ -1,0 +1,10 @@
+fastapi
+joblib
+openpyxl
+pandas
+protobuf
+pydantic
+scikit-learn
+sentence_transformers
+uvicorn
+xgboost
