@@ -178,3 +178,4 @@ cython_debug/
 # models
 embeddings.npy
 *.joblib
+*.xlsx
